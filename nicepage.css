@@ -38664,7 +38664,7 @@ a.u-link.u-text-hover-grey-90:hover {
         a.u-button-style.u-button-style.u-text-custom-color-1.active,
         a.u-button-style.u-button-style.u-text-custom-color-1[class*="u-border-"].active
         {
-            color: rgba(247,242,186,0.94) !important;
+            color: rgba(247,242,186,0.33) !important;
         }
 
         a.u-button-style:hover > .u-text-hover-custom-color-1,
@@ -38704,7 +38704,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
         .u-link.u-text-custom-color-1:hover
         {
-            color: rgba(247,242,186,0.94) !important;
+            color: rgba(247,242,186,0.33) !important;
         }
 
         a.u-link.u-text-hover-custom-color-1:hover
