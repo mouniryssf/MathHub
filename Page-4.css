@@ -15,7 +15,7 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   height: auto;
-  width: 950px;
+  width: 960px;
   min-height: 340px;
   margin: 20px auto 0 30px;
 }
@@ -25,7 +25,7 @@
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  width: 950px;
+  width: 960px;
   margin: 0 30px 10px;
 }
 
@@ -93,11 +93,11 @@
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 336px;
+    min-height: 333px;
   }
 
   .u-section-1 .u-layout-cell-2 {
-    min-height: 336px;
+    min-height: 333px;
   }
 }
 
@@ -180,7 +180,7 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   height: auto;
-  width: 950px;
+  width: 960px;
   min-height: 340px;
   margin: 10px auto 10px 30px;
 }
@@ -210,15 +210,15 @@
 
   .u-section-2 .u-text-1 {
     width: 450px;
-    margin-left: 25px;
-    margin-right: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
   }
 
   .u-section-2 .u-text-2 {
     padding-left: 0;
     width: 732px;
-    margin-left: 25px;
-    margin-right: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
   }
 }
 
@@ -285,7 +285,7 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   height: auto;
-  width: 950px;
+  width: 960px;
   min-height: 2120px;
   margin: 9px auto 11px 30px;
 }
@@ -396,8 +396,8 @@
   .u-section-3 .u-text-1 {
     font-size: 2.625rem;
     width: auto;
-    margin-left: 25px;
-    margin-right: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
   }
 
   .u-section-3 .u-video-1 {
@@ -458,6 +458,8 @@
   .u-section-3 .u-text-1 {
     font-size: 2.125rem;
     margin-top: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
   }
 
   .u-section-3 .u-video-1 {
@@ -629,7 +631,7 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   min-height: 340px;
-  width: 950px;
+  width: 960px;
   height: auto;
   margin: 9px auto 21px 26px;
 }
@@ -661,8 +663,8 @@
   .u-section-4 .u-text-1 {
     font-size: 2.625rem;
     width: auto;
-    margin-left: 25px;
-    margin-right: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
   }
 
   .u-section-4 .u-text-2 {
@@ -670,7 +672,7 @@
     transition-duration: 0.5s;
     width: auto;
     margin-left: 40px;
-    margin-right: 25px;
+    margin-right: 20px;
   }
 }
 
@@ -684,10 +686,11 @@
   .u-section-4 .u-text-1 {
     font-size: 2.125rem;
     margin-top: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
   }
 
   .u-section-4 .u-text-2 {
-    margin-right: 20px;
     margin-left: 35px;
   }
 }
