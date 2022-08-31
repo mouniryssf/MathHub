@@ -38183,7 +38183,7 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-button-style.u-border-custom-color-1:focus
         {
             border-color: transparent !important;
-            color: rgba(247,242,186,0.94) !important;
+            color: rgba(247,242,186,0.33) !important;
             background-color: transparent !important;
         }
 
@@ -38209,7 +38209,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
         .u-link.u-border-custom-color-1[class*="u-border-"]:hover
         {
-            border-color: rgba(247,242,186,0.94) !important;
+            border-color: rgba(247,242,186,0.33) !important;
         }
         
         
