@@ -37514,14 +37514,14 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-table-alt-custom-color-1 tr:nth-child(even)
         {
             color: #111111;
-            background-color: rgba(252,250,229,0.94);
+            background-color: rgba(252,250,229,0.33);
         }
 
         .u-button-style.u-custom-color-1,
         .u-button-style.u-custom-color-1[class*="u-border-"]
         {
             color: #111111 !important;
-            background-color: rgba(252,250,229,0.94) !important;
+            background-color: rgba(252,250,229,0.33) !important;
         }
 
         .u-button-style.u-custom-color-1:hover,
@@ -37561,11 +37561,11 @@ a.u-link.u-text-hover-grey-90:hover {
         li.active > a.u-button-style.u-button-style.u-active-custom-color-1[class*="u-border-"]
         {
             color: #111111 !important;
-            background-color: rgba(252,250,229,0.94) !important;
+            background-color: rgba(252,250,229,0.33) !important;
         }
 
         a.u-link.u-hover-custom-color-1:hover {
-            color: rgba(252,250,229,0.94) !important;
+            color: rgba(252,250,229,0.33) !important;
         }
 
         
