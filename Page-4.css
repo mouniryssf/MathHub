@@ -15,7 +15,7 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   height: auto;
-  width: 1080px;
+  width: 1010px;
   min-height: 340px;
   margin: 20px auto 10px 0;
 }
@@ -27,25 +27,25 @@
 .u-section-1 .u-text-1 {
   font-weight: 700;
   font-size: 3rem;
-  margin: 30px 580px 0 40px;
+  margin: 30px 510px 0 40px;
 }
 
 .u-section-1 .u-text-2 {
   font-weight: 700;
   font-size: 3rem;
-  margin: -53px 40px 0 572px;
+  margin: -53px 40px 0 502px;
 }
 
 .u-section-1 .u-text-3 {
   font-size: 1.25rem;
   padding-left: 0;
-  margin: 10px 580px 0 40px;
+  margin: 10px 510px 0 40px;
 }
 
 .u-section-1 .u-text-4 {
   font-size: 1.25rem;
   padding-left: 0;
-  margin: -131px 40px 0 572px;
+  margin: -131px 40px 0 502px;
 }
 
 @media (max-width: 1199px) {
@@ -173,7 +173,7 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   height: auto;
-  width: 1080px;
+  width: 1010px;
   min-height: 340px;
   margin: 10px auto 10px 0;
 }
@@ -262,7 +262,7 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   height: auto;
-  width: 1080px;
+  width: 1010px;
   min-height: 2100px;
   margin: 10px auto 10px 0;
 }
@@ -607,7 +607,7 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   min-height: 340px;
-  width: 1088px;
+  width: 1010px;
   height: auto;
   margin: 10px auto 20px 0;
 }
