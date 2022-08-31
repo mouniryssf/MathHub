@@ -23625,6 +23625,8 @@ a.u-button-style.u-border-20 {
         
         
         
+        
+        
         --theme-sheet-width-xl: 1140px;
         --theme-sheet-width-lg: 940px;
         --theme-sheet-width-md: 720px;
@@ -23657,11 +23659,13 @@ a.u-button-style.u-border-20 {
         }
         h1:not(.u-title)
         {
-        font-weight: 400;
         font-size: 3rem;
         line-height: 1.1;
         margin-top: 20px;
         margin-bottom: 20px;
+        font-weight: 700;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
         }
         h2:not(.u-subtitle)
         {
