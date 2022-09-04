@@ -124,8 +124,8 @@
     else if (initialURL === "uploaded") {
       let uploadedVideosList = document.querySelectorAll(".lecture-attachment-type-video")
       const selectedVideo = uploadedVideosList[0]
-      selectedVideo.style.setProperty("width", "960px", "important")
-      selectedVideo.style.setProperty("margin", "19px auto 0", "important")
+//       selectedVideo.style.setProperty("width", "960px", "important")
+      selectedVideo.style.setProperty("margin", "19px 20px 20px", "important")
       node.firstElementChild.children[1].replaceWith(selectedVideo)
       videosList.appendChild(node)
     }
