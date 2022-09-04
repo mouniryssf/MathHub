@@ -389,7 +389,7 @@
   }
 
   .u-section-3 .u-group-1 {
-    margin-bottom: 1px;
+    margin-bottom: 10px;
     min-height: 100px;
     width: auto;
     margin-right: initial;
@@ -402,7 +402,7 @@
 
   .u-section-3 .u-text-2 {
     font-size: 0.75rem;
-    margin-bottom: 0;
+    margin-bottom: 20px;
   }
 }
 

@@ -5346,7 +5346,7 @@ blockquote.u-text.u-indent-0 {
   padding-left: 0px;
 }
 ul.u-text li:last-child {
-  margin-bottom: 0;
+  margin-bottom: 15px;
 }
 .u-vertical-spacing.u-spacing-100 > li:not(:last-child) {
   margin-right: 0 !important;
