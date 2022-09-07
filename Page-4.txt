@@ -267,6 +267,10 @@
     .revamped_lecture_player .lecture-content.course-mainbar {
       background: #e5e5e5 !important;
     }
+                                
+    .revamped_lecture_player .lecture-content.enforce-maximum-content-width {
+      max-width: 2000px !important;
+    }
 
     body {
       background: #e5e5e5 !important;
