@@ -20,5 +20,5 @@
   }
 
   
-    let window = assignmentWindow.getElementsByTagName("iframe")[0].src = assignmentLink
-    let form = feedbackForm.getElementsByTagName("iframe")[0].src = formLink
+    assignmentWindow.getElementsByTagName("iframe")[0].src = assignmentLink
+    feedbackForm.getElementsByTagName("iframe")[0].src = formLink
