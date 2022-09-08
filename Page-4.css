@@ -433,7 +433,7 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   height: auto;
-  width: 1160px;
+/*   width: 1160px; */
   min-height: 100px;
   margin: 10px 0;
 }
