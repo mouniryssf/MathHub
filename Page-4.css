@@ -178,9 +178,9 @@
   left: auto;
   transform-origin: center top;
   position: absolute;
-  height: 235px;
+  height: 100%;
   right: -4px;
-  border-style: double;
+  border-style: solid;
 }
 
 .u-section-2 .u-text-1 {
@@ -433,7 +433,7 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   height: auto;
-/*   width: 1160px; */
+  width: 1160px;
   min-height: 100px;
   margin: 10px 0;
 }

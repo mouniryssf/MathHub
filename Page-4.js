@@ -1,4 +1,4 @@
-
+  
   let objectivesList = document.querySelector("#objectives")
   let numNeededObj = objectivesArr.length
 
@@ -19,8 +19,8 @@
 
   for (let i = 0; i < numNeededObj; i++) {
     let node = template.cloneNode(true)
-    let text = node.childNodes[2]
-    text.textContent = objectivesArr[i]
+    let text = node.childNodes[3]
+    text.innerHTML = objectivesArr[i]
     objectivesList.appendChild(node)
   }
 
@@ -28,8 +28,8 @@
 
   for (let i = 0; i < numNeededVocab; i++) {
     let node = template.cloneNode(true)
-    let text = node.childNodes[2]
-    text.textContent = vocabularyArr[i]
+    let text = node.childNodes[3]
+    text.innerHTML = vocabularyArr[i]
     vocabularyList.appendChild(node)
   }
 
@@ -37,8 +37,8 @@
 
   for (let i = 0; i < numNeededPrior; i++) {
     let node = template.cloneNode(true)
-    let text = node.childNodes[2]
-    text.textContent = priorKnowledgeArr[i]
+    let text = node.childNodes[3]
+    text.innerHTML = priorKnowledgeArr[i]
     priorKnowledgeList.appendChild(node)
   }
 
@@ -46,8 +46,8 @@
 
   for (let i = 0; i < numNeededApp; i++) {
     let node = template.cloneNode(true)
-    let text = node.childNodes[2]
-    text.textContent = applicationArr[i]
+    let text = node.childNodes[3]
+    text.innerHTML = applicationArr[i]
     applicationList.appendChild(node)
   }
 

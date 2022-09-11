@@ -20770,7 +20770,7 @@ a.u-button-style.u-border-7 {
 .u-separator-8:after,
 .u-text.u-border-8,
 a.u-button-style.u-border-8 {
-  border-width: 8px;
+  border-width: 4px;
 }
 .u-shape-svg.u-border-8 {
   stroke-width: 8px;
@@ -38864,14 +38864,14 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-border-custom-color-10,
         .u-separator-custom-color-10:after
         {
-            border-color: #dac364;
-            stroke: #dac364;
+            border-color: #a1881e;
+            stroke: #a1881e;
         }
 
         .u-button-style.u-border-custom-color-10
         {
-            border-color: #dac364 !important;
-            color: #dac364 !important;
+            border-color: #a1881e !important;
+            color: #a1881e !important;
             background-color: transparent !important;
         }
 
