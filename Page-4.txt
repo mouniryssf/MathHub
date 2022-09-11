@@ -290,5 +290,14 @@
     body {
       background: #e5e5e5 !important;
     }
+
+    .revamped_lecture_player .lecture-content.enforce-maximum-content-width {
+      max-width: 2000px !important;
+    }
+
+    .revamped_lecture_player .course-mainbar.enforce-maximum-content-width {
+      max-width: 2000px !important;
+
+    }
   </style>
   </body>
