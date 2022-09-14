@@ -96,7 +96,7 @@
 
   }
 
-function eventListener(){
+
     let btns = document.querySelectorAll('#courseSidebar a');
 
   for (btn of btns) {
@@ -104,7 +104,5 @@ function eventListener(){
       window.location.href = this.href;
     });
   }
-}
 
-eventListener();
 
