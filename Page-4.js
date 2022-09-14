@@ -1,4 +1,6 @@
   
+  
+  
   let objectivesList = document.querySelector("#objectives")
   let numNeededObj = objectivesArr.length
 
@@ -92,4 +94,13 @@
       videosList.appendChild(node)
     }
 
+  }
+
+
+  let btns = document.querySelectorAll('#courseSidebar a');
+
+  for (btn of btns) {
+    btn.addEventListener('click', function() {
+      window.location.href = this.href;
+    });
   }
