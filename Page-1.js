@@ -22,3 +22,12 @@
   
     assignmentWindow.getElementsByTagName("iframe")[0].src = assignmentLink
     feedbackForm.getElementsByTagName("iframe")[0].src = formLink
+
+
+    let btns = document.querySelectorAll('#courseSidebar a');
+
+    for (btn of btns) {
+      btn.addEventListener('click', function() {
+        window.location.href = this.href;
+      });
+    }
